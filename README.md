@@ -1,8 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Dima 👋
+
+<p align="center">
+  <a href="https://github.com/mkhvdm"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
+  <a href="https://www.linkedin.com/in/dmitriy-mikheev-892312204/"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
+  <a href="https://t.me/MkhvDm"><img alt="telegram" title="telegram" height="48" width="48" src="assets/tg.svg"></a>
+</p>
+
 
 <!--
-**MkhvDm/MkhvDm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
