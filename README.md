@@ -1,4 +1,4 @@
-<h2 align=center> Hi there, I'm Dima 👋 </h2>
+<h2 align=center> Open to work! 👋 </h2>
 
 <p align="center">
   <a href="https://github.com/mkhvdm"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
